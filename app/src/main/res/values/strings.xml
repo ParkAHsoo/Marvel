@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Marvel</string>
+
+    <string name="heroes_name">Marvel</string>
+    <string name="description">Deskripsi</string>
+    <string name="keterangan_default">Artikel</string>
+
+    <string name="About">About</string>
+    <string name="grid">Grid</string>
+
+    <string name="name">Ahmad Shodiqin</string>
+    <string name="email">ahmadshodiqin982@gmail.com</string>
+
+    <string-array name="data_name">
+        <item>Captain America</item>
+        <item>Ironman</item>
+        <item>thor</item>
+        <item>Hulk</item>
+        <item>Spiderman</item>
+        <item>Wolverine</item>
+        <item>Moon Knight</item>
+        <item>Deadpool</item>
+        <item>Doctor Strange</item>
+        <item>Thanos</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Captain America adalah sosok pahlawan super fiktif dari Marvel Comics. Memiliki musuh besar bernama Salwi Ackerman dan Baron Zemo, Rogers adalah tentara AS yang tidak memiliki kemampuan sama sekali.</item>
+        <item>Iron Man (Anthony Edward "Tony" Stark) adalah pahlawan super fiksi yang muncul dalam buku komik Amerika yang diterbitkan oleh Marvel Comics, serta media yang terkait.</item>
+        <item>Thor adalah sebuah pahlawan super fiksi yang muncul dalam buku-buku komik Amerika yang diterbitkan oleh Marvel Comics.</item>
+        <item>Hulk, adalah tokoh pahlawan super fiksi yang ada pada Marvel Comics. DIciptakan oleh Stan Lee dan Jack Kirby, tokoh ini pertama kali muncul di The Incredible Hulk pada tanggal 1 Mei 1962 .</item>
+        <item>Spider-Man (bahasa Indonesia: Manusia Laba-laba), adalah pahlawan super fiktif dari Marvel Comics yang diciptakan oleh penulis Stan Lee dan artis Steve Ditko.</item>
+        <item>Wolverine (lahir James Howlett[1] umumnya dikenal sebagai Logan dan kadang-kadang sebagai Weapon X) adalah karakter fiksi yang muncul di buku komik Amerika yang diterbitkan oleh Marvel Comics.</item>
+        <item>Moon Knight adalah miniseri televisi Amerika Serikat yang dibuat oleh Jeremy Slater untuk layanan streaming Disney+ Hotstar, berdasarkan karakter Marvel Comics dengan nama yang sama.</item>
+        <item>Deadpool (Wade Winston Wilson) merupakan antihero fiksi yang muncul di komik Amerika Serikat yang diproduksi oleh Marvel Comics.</item>
+        <item>Doctor Stephen Vincent Strange adalah pahlawan super fiksi yang muncul di American Comic Book dipublikasikan oleh Marvel Comics.</item>
+        <item>Thanos adalah penjahat super buku komik yang muncul dalam publikasi Amerika Marvel Comics</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/captainamerica</item>
+        <item>@drawable/ironman</item>
+        <item>@drawable/thor</item>
+        <item>@drawable/hulk</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/wolverine</item>
+        <item>@drawable/moonknight</item>
+        <item>@drawable/deadpool</item>
+        <item>@drawable/doctorstrange</item>
+        <item>@drawable/thanos</item>
+    </integer-array>
+
+    <string-array name="data_keterangan">
+        <item>Captain America adalah sosok pahlawan super fiktif dari Marvel Comics. Memiliki musuh besar bernama Salwi Ackerman dan Baron Zemo, Rogers adalah tentara AS yang tidak memiliki kemampuan sama sekali. Berkat bantuan Dr. Joshef Reinstein dengan serum super soldiernya. Pahlawan yang lahir pada tahun 1920 ini menjadi pahlawan perang Amerika Serikat saat menghadapi sekutu NAZI yang dipimpin oleh Adolf Hitler. Dibuat oleh komikus Joe Simon dan Jack Kirby, karakter pertama kali muncul di Captain America Comics # 1 (cover Maret 1941) dari Timely Comics, pendahulu dari Marvel Comics.</item>
+        <item>Iron Man (Anthony Edward "Tony" Stark) adalah pahlawan super fiksi yang muncul dalam buku komik Amerika yang diterbitkan oleh Marvel Comics, serta media yang terkait. Karakter diciptakan oleh penulis dan editor Stan Lee, yang dikembangkan oleh penulis skenario Larry Lieber, dan dirancang oleh seniman Don Heck dan Jack Kirby. Dia membuat penampilan pertamanya di Tales of Suspense #39 (cover tertanggal bulan Maret 1963).</item>
+        <item>Thor adalah sebuah pahlawan super fiksi yang muncul dalam buku-buku komik Amerika yang diterbitkan oleh Marvel Comics. Karakter tersebut, yang berdasarkan pada dewa mitologi Norse dengan nama yang sama, adalah dewa petir dan memegang sebuah palu, yang memberikannya kemampuan terbang dan mengendalikan cuaca.</item>
+        <item>Hulk, adalah tokoh pahlawan super fiksi yang ada pada Marvel Comics. DIciptakan oleh Stan Lee dan Jack Kirby, tokoh ini pertama kali muncul di The Incredible Hulk pada tanggal 1 Mei 1962 . Pada tahun 2008, majalah Wizard memberikan julukan kepada Hulk sebagai tokoh dari ketujuh Marvel Comics terhebat[3] Empire Magazine menamakannya sebagai keempat belas tokoh komik dan rangking lima terbesar dari Marvel.[4].</item>
+        <item>Spider-Man (bahasa Indonesia: Manusia Laba-laba), adalah pahlawan super fiktif dari Marvel Comics yang diciptakan oleh penulis Stan Lee dan artis Steve Ditko. Ia pertama muncul dalam Amazing Fantasy #15 (Agustus 1962). Ia telah menjadi salah satu pahlawan super yang paling terkenal di dunia.Tobey Maguire, Aktor yang pertama kali memerankan sosok manusia laba-laba dari komik dan layar kaca ke layar lebar. Pria kelahiran 27 Juni 1975 tampil perdana dalam Spider-Man (2002).Ketika komik yang menampilkan Spider-Man pertama kali muncul di awal 1960-an, para pembaca usia remaja langsung dapat terhubung ke peran identitas ganda sang superhero.</item>
+        <item>Wolverine (lahir James Howlett[1] umumnya dikenal sebagai Logan dan kadang-kadang sebagai Weapon X) adalah karakter fiksi yang muncul di buku komik Amerika yang diterbitkan oleh Marvel Comics. Kata Wolverine sendiri diambil dari nama hewan dari California yang diyakini sebagai jelmaan iblis. Beredar kabar seseorang telah melihat hewan tersebut memakan beruang yang ukurannya lebih besar darinya.</item>
+        <item>Moon Knight adalah miniseri televisi Amerika Serikat yang dibuat oleh Jeremy Slater untuk layanan streaming Disney+ Hotstar, berdasarkan karakter Marvel Comics dengan nama yang sama. Serial ini termasuk dalam Marvel Cinematic Universe. Serial ini diproduksi oleh Marvel Studios, dengan Jeremy Slater yang ditunjuk sebagai penulis utama.</item>
+        <item>Deadpool (Wade Winston Wilson) merupakan antihero fiksi yang muncul di komik Amerika Serikat yang diproduksi oleh Marvel Comics. Pertama kali diciptakan oleh Fabian Nicieza dan penulis Rob Liefeld, karakter ini muncul pertama kali di The New Mutants #98 cover-dated (Feb. 1991). Awalnya Deadpool digambarkan sebagai penjahat super ketika ia membuat penampilan perdananya di The New Mutants dan kemudian di X-Force, tetapi telah berkembang menjadi peran antihero. </item>
+        <item>Doctor Stephen Vincent Strange adalah pahlawan super fiksi yang muncul di American Comic Book dipublikasikan oleh Marvel Comics. Dibuat oleh artis dan konseptualis karakter Steve Ditko dan penulis Stan Lee, karakter pertama muncul di Strange Tales #110.Kisah asal karakter tersebut menceritakan bahwa dia pernah menjadi ahli bedah yang brilian tapi egois. Setelah kecelakaan mobil sangat merusak tangannya dan menghalangi kemampuannya untuk melakukan operasi, dia mencari bola untuk memperbaiki dan menemukan Ancient One.</item>
+        <item>Thanos adalah penjahat super buku komik yang muncul dalam publikasi Amerika Marvel Comics. Dibuat oleh penulis/artis Jim Starlin, karakter pertama kali muncul di The Invincible Iron Man #55 (cover tanggal Februari 1973). Thanos adalah salah satu penjahat paling kuat di Marvel Universe dan telah bentrok dengan banyak pahlawan termasuk Avengers, Guardians of the Galaxy, Fantastic Four, X-Men, dan lain-lain.</item>
+    </string-array>
+</resources>
